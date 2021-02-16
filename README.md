@@ -1,4 +1,4 @@
-# flask-restapi
+# Flask Rest API
 Flask api developed using Flask, Flask Restful, SQLAlchemy and PostgreSQL
 
 ## Installation
